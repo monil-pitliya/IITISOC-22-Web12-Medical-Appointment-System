@@ -19,6 +19,8 @@ To start the development server</br>
 
 
 NOTE: Presently, login is not working properly due to some error. Kindly add '/appointments' in the directory to go to the booking page.
+Existing Emails- ayushi@gmail.com
+                 aditi@gmail.com
 
 
 # Tech Stacks
